@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Foma_github_pages\u002F_nuxt\u002Fstatic\u002F1637269239",layout:"default",error:a,serverRendered:true,routePath:"\u002Fnews\u002F2021-07-8-ENISA\u002F",config:{_app:{basePath:"\u002Foma_github_pages\u002F",assetsPath:"\u002Foma_github_pages\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"91af2241"}}}}(null));
