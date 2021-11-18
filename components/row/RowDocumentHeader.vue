@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     selectImg(image) {
-      return image ? `${image}` : 'images/logo1.jpg'
+      return image ? `${image}` : '/images/logo1.jpg'
     },
   },
 }

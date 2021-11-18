@@ -19,7 +19,7 @@ modules:
   -
     name: RowTextImage
     cols: 1
-    image: "images/events.png"
+    image: "/images/events.png"
     title: separator
     status: 
   -

@@ -64,7 +64,7 @@ export default {
   },
   methods: {
     selectImg(image) {
-      return image || 'images/logo1.jpg'
+      return image || '/images/logo1.jpg'
     },
     itemColor(i) {
       const isEven = (Number(i + 1) % 2)
