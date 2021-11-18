@@ -2,7 +2,6 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: "/oma_github_pages/",
     trailingSlash: true
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
