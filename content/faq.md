@@ -12,7 +12,7 @@ modules:
       This section is updated based on the questions received by the Working Groups.
   -
     name: RowImage
-    image: "/images/priscilla-du-preez-lIpubE3_DEQ-unsplash.jpeg"
+    image: "images/priscilla-du-preez-lIpubE3_DEQ-unsplash.jpeg"
     title: separator
     status: border-image
 --- 
