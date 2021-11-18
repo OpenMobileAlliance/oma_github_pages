@@ -10,7 +10,7 @@
     <b-navbar-brand
       to="/"
     >
-      <b-img height="80" src="/images/logo1.jpg" alt="logo" />
+      <b-img height="80" src="images/logo1.jpg" alt="logo" />
     </b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
