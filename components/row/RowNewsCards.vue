@@ -56,7 +56,7 @@ export default {
   },
   methods: {
     selectImg(image) {
-      return image || 'images/logo1.jpg'
+      return image || '/images/logo1.jpg'
     },
   },
 }
