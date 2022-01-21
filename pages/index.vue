@@ -51,15 +51,18 @@
         :key="`${module.name}_${index}`"
         :size="module.size"
       />
+      <RowNewsCards
+        v-else-if="module.name === 'RowNewsCards'"
+        :key="`${module.name}_${index}`"
+        :news="news"
+      />
     </template>
       <Default :document="document"/>
   </Main>
 </template>
 
 <script>
-import RowSeparator from '~/components/row/RowSeparator.vue'
 export default {
-  components: { RowSeparator },
   data() {
     return {
       document: {},
