@@ -2,14 +2,19 @@
 title: About page
 description: Page dedicated to LwM2M and IPSO
 modules:
+  -
+    name: RowText
+    text: |
+      ### Open Mobile Alliance - Lightweight Machine to Machine (LwM2M)
+      These GitHub pages are dedicated to DMSE/IPSO Working Groups [Specifications](https://technical.openmobilealliance.org/Overviews/lightweightm2m_overview.html) and [OMNA LwM2M Registry](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html)
   - 
     name: RowSeparator
-    size: XL #provide XS, S, M, L, XL spacing between component
+    size: L #provide XS, S, M, L, XL spacing between component
   -
     name: RowImageText
     cols: 3
-    image: images/dmse.png
-    status: second #second-wide (extend the width of the image), "second" provides a background color to the text or empty
+    image: "/images/dmse.png"
+    status: #second-wide (extend the width of the image), "second" provides a background color to the text or empty
     text: | 
       ##### **Device Management & Service Enablement Working Group**
 
@@ -23,7 +28,7 @@ modules:
   -
     name: RowTextImage
     cols: 9
-    image: images/ipso.png
+    image: "/images/ipso.png"
     status: #second-wide
     text: | 
       ##### **IPSO Smart Objects Working Group (IPSO)**
