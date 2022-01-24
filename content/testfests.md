@@ -19,7 +19,7 @@ modules:
   -
     name: RowTextImage
     cols: 1
-    image: "/images/events.png"
+    image: "/images/events.jpg"
     title: separator
     status: 
   -
@@ -43,14 +43,16 @@ modules:
       </br>
 
       ### Next OMA LwM2M TestFest
-
-      * **Date:** TBD
-
-      * **Location:** TBD
-
-      * **Registration**: TBD
-
+      </br>
+      
+      Information            | Details
+      ----------------|--------------
+      **Date:** | TBD
+      **Location:**  |TBD
+      **Registration**: | TBD
+      </br>
       <button>REGISTRATION (TBD)</button>
+      </br>
   -
     name: RowSeparator
     size: L #provide XS, S, M, L, XL spacing between component
