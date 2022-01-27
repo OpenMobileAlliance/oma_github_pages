@@ -5,8 +5,8 @@ modules:
   -
     name: RowText
     text: |
-      ### Open Mobile Alliance - [DMSE](https://omaspecworks.org/about/the-oma-specworks-work-program/device-management-and-service-enablement-working-group/) / [IPSO](https://omaspecworks.org/about/the-oma-specworks-work-program/ipso-smart-objects-working-group/) Working Groups
-      These GitHub pages are dedicated to DMSE/IPSO Working Groups.
+      ### Open Mobile Alliance - LwM2M Specifications
+      These GitHub pages are dedicated to the LwM2M specifications and objects defined by the DMSE and IPSO Working Groups.
   -
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
@@ -122,13 +122,13 @@ modules:
               - 
                 title: LwM2M Registry
                 subtitle:
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html
                 target: _blank
               - 
                 title: Developer's Wiki
                 subtitle:
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki
                 target: _blank
           -
@@ -139,19 +139,19 @@ modules:
               - 
                 title: Leshan
                 subtitle: (Eclipse)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/eclipse/leshan
                 target: _blank
               - 
                 title: Wakaama
                 subtitle: (Eclipse)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/eclipse/wakaama
                 target: _blank
               - 
                 title: Anjay
                 subtitle: (AVSystem)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/AVSystem/Anjay
                 target: _blank
       - 
