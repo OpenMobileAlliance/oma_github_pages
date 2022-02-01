@@ -44,6 +44,12 @@
         :key="`${module.name}_${index}`"
         :size="module.size"
       />
+      <RowMultiColumns
+        v-if="module.name === 'RowMultiColumns'"
+        :key="`${module.name}_${index}`"
+        :config="module"
+        :values="[]"
+      />
     </template>
     <Default :document="document" />
   </Main>
