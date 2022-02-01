@@ -47,4 +47,9 @@
       url: https://github.com/OpenMobileAlliance
       target: _blank
       class: ml-auto
+    -
+      title: Test
+      description:
+      url: /test/
+      class: text-uppercase
 ---
