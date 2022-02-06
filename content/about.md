@@ -1,22 +1,76 @@
 ---
 modules:
   - 
+    name: RowText
+    text: |
+          # **About OMA SpecWorks**
+          This page is about OMA SpecsWork.
+  - 
     name: RowMultiColumns
     cols: 2
     widths: [6,6]
     modules:
       -
-        name: RowTextImage
-        cols: 4
-        image: /images/working_together_2.jpg
+        name: RowText
         status: #second-wide
-        text:  IPSO Smart Objects Working Groups (IPSO) 
+        text:  |
+                ### DMSE Working Group
+                Since 2002, the DMSE WG has released a suite of specifications which includes 20+ mobile service enabler specifications and more than 60 Management Objects providing simple, reliable and cost-effective ways to deploy new applications and services while minimizing the risk. The most market diffused of the Management Objects is certainly the Firmware Update Management Object (FUMO) with **deployments in the billions of devices**.  
+      -
+        name: RowText
+        status: #second-wide
+        text:  |
+                ### IPSO Working Group
+                Since 2002, the DMSE WG has released a suite of specifications which includes 20+ mobile service enabler specifications and more than 60 Management Objects providing simple, reliable and cost-effective ways to deploy new applications and services while minimizing the risk. The most market diffused of the Management Objects is certainly the Firmware Update Management Object (FUMO) with **deployments in the billions of devices**. 
       -
         name: RowTextImage
         cols: 4
         image: /images/working_together_2.jpg
         status: #second-wide
-        text:  IPSO Smart Objects Working Group (IPSO kdkdkd
+        text:  |
+                ##### DMSE Activities
+                IPSO Smart Objects Working Groups (IPSO) 
+      -
+        name: RowTextImage
+        cols: 6
+        image: /images/working_together_1.jpg
+        status: #second-wide
+        text:  |
+               ***Note***
+                >IPSO Smart Objects Working Group (IPSO kdkdkd Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service 
+  -
+    name: RowMultiColumns
+    cols: 2
+    widths: [6,6]
+    modules:
+        -
+            name: RowText
+            status: #second-wide
+            text:  
+        -
+            name: RowText
+            status: #second-wide
+            text: |
+                    > Enablement Working Group (DMSE WG) specifies protocols and mechanisms to achieve the management of mobile devices, services access and software on connected devices across networks.
+  - 
+    name: RowText
+    text: |
+          ##### **About OMA SpecWorks**
+          OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.
+  -
+    name: RowSeparator
+    size: S #provide XS, S, M, L, XL spacing between component
+  -
+    name: RowImageText
+    cols: 4
+    image: /images/working_together_1.jpg
+    status: #second second-wide (extend the width of the image), "second" provides a background color to the text or empty
+    text: | 
+      ##### **Device Management & Service Enablement Working Group**
+
+      Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service Enablement Working Group (DMSE WG) specifies protocols and mechanisms to achieve the management of mobile devices, services access and software on connected devices across networks.
+      
+      Since 2002, the DMSE WG has released a suite of specifications which includes 20+ mobile service enabler specifications and more than 60 Management Objects providing simple, reliable and cost-effective ways to deploy new applications and services while minimizing the risk. The most market diffused of the Management Objects is certainly the Firmware Update Management Object (FUMO) with **deployments in the billions of devices**. An additional 20+ Management Objects have been defined by other standards organizations, which cooperate with OMA SpecWorks to avoid fragmentation and duplication. DMSE technologies easily manage converged and multi-mode devices on any network, including devices that do not have a SIM card, as well as resource-constrained devices. Explore the OMA [DMSE](https://technical.openmobilealliance.org/index.html)and [LwM2M](https://openmobilealliance.github.io/dmse-documentation/) specifications.
   -
     name: RowSeparator
     size: XL #provide XS, S, M, L, XL spacing between component
@@ -35,8 +89,11 @@ modules:
   -
     name: RowSeparator
     size: L #provide XS, S, M, L, XL spacing between component
+  -
+    name: RowNewsCards
+    news: 
 ---
 
 ##### **About OMA SpecWorks**
 
-OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.
+>OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.

@@ -140,4 +140,18 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Mar-2021
                 target: _blank
+  -
+    name: RowSeparator
+    size: S #provide XS, S, M, L, XL spacing between component
+  -
+    name: RowTextImage
+    cols: 6
+    image: /images/working_together_2.jpg
+    status: #second-wide
+    text: | 
+      ##### **IPSO Smart Objects Working Group (IPSO)**
+      In December 2017,
+  -
+    name: RowNewsCards
+    news: 
 ---
