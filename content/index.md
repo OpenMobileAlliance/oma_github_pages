@@ -87,13 +87,13 @@ modules:
               - 
                 title: LwM2M Registry
                 subtitle:
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html
                 target: _blank
               - 
                 title: Developer's Wiki
                 subtitle:
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki
                 target: _blank
           -
@@ -104,19 +104,19 @@ modules:
               - 
                 title: Leshan
                 subtitle: (Eclipse)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/eclipse/leshan
                 target: _blank
               - 
                 title: Wakaama
                 subtitle: (Eclipse)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/eclipse/wakaama
                 target: _blank
               - 
                 title: Anjay
                 subtitle: (AVSystem)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/AVSystem/Anjay
                 target: _blank
       - 
@@ -142,7 +142,7 @@ modules:
                 target: _blank
   -
     name: RowSeparator
-    size: S #provide XS, S, M, L, XL spacing between component
+    size: XL #provide XS, S, M, L, XL spacing between component
   -
     name: RowTextImage
     cols: 6
@@ -150,8 +150,11 @@ modules:
     status: #second-wide
     text: | 
       ##### **IPSO Smart Objects Working Group (IPSO)**
-      In December 2017,
+      The IPSO Alliance is not a standards organization, but an alliance that promotes and supports Smart Objects, and manages an IPSO Smart Object Registry that includes libraries, icons and repositories to be used by worldwide standard definition organizations (SDOs), special interest groups (SIGs), open communities and original equipment manufacturers (OEMs). The creation of a fully functional IPSO Smart Object Registry provides an avenue for industry adoption. IPSO has the goal to create Smart Object definitions, instantiations, data models, design models, reference architectures, icons, and brand, which include all the attributes needed to be an integral component of an IoT Smart Object Marketplace.
   -
     name: RowNewsCards
     news: 
 ---
+##### **About OMA SpecWorks**
+
+>OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.
