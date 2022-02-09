@@ -20,7 +20,7 @@ modules:
   -
     name: RowMultiColumns
     cols: 2
-    widths: [9, 3]
+    widths: [10, 2]
     modules:
       -
         name: RowButtonGrid

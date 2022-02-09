@@ -1,6 +1,6 @@
 ---
 layout: blog
-image:
+image: 
 title: LwM2M v1.2 is now available!
 subtitle: Latest LwM2M Protocol version
 description: The standardization work on the LwM2M v1.2 specification has been completed and the specification bundle is now available for public download

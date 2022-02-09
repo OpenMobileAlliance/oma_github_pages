@@ -37,7 +37,7 @@ modules:
         status: #second-wide
         text:  |
                ***Note***
-                >IPSO Smart Objects Working Group (IPSO kdkdkd Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service 
+                IPSO Smart Objects Working Group (IPSO kdkdkd Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service 
   -
     name: RowMultiColumns
     cols: 2
@@ -51,7 +51,7 @@ modules:
             name: RowText
             status: #second-wide
             text: |
-                    > Enablement Working Group (DMSE WG) specifies protocols and mechanisms to achieve the management of mobile devices, services access and software on connected devices across networks.
+                    Enablement Working Group (DMSE WG) specifies protocols and mechanisms to achieve the management of mobile devices, services access and software on connected devices across networks.
   - 
     name: RowText
     text: |
