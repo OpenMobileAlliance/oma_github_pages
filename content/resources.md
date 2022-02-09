@@ -15,20 +15,20 @@ modules:
   -
     name: RowTextImage
     cols: 3
-    image: "images/resources.jpeg"
+    image: "/images/resources.jpeg"
     title: separator
-    status: 
+    status:
 
-  - 
+  -
     name: RowDynamicTable
     description: Table dedicated to display resources
     pagination: 10
-    filter: 
+    filter:
      - title
      - type
      - published
     columns:
-      - 
+      -
         key: title
         label: Title
         sortable: true
