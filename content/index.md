@@ -3,23 +3,25 @@ title: Home page
 description: Main page of the web application
 modules:
   -
+    name: RowSeparator
+    size: S #provide XS, S, M, L, XL spacing between component
+  -
+    name: RowNewsCards
+    news:
+  -
     name: RowText
     text: |
-      ### Open Mobile Alliance - [DMSE](https://omaspecworks.org/about/the-oma-specworks-work-program/device-management-and-service-enablement-working-group/) / [IPSO](https://omaspecworks.org/about/the-oma-specworks-work-program/ipso-smart-objects-working-group/) Working Groups
-      These GitHub pages are dedicated to DMSE/IPSO Working Groups.
+      ### Open Mobile Alliance - LightweighM2M
+      [DMSE](https://omaspecworks.org/about/the-oma-specworks-work-program/device-management-and-service-enablement-working-group/) / [IPSO](https://omaspecworks.org/about/the-oma-specworks-work-program/ipso-smart-objects-working-group/) Working Groups are responsible for the development and maintenance of the LightweightM2M Protocol as well as OMNA LwM2M Registry.
+
   -
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
   -
     name: RowMultiColumns
-    cols: 3
-    widths: [2, 8, 2]
+    cols: 2
+    widths: [9, 3]
     modules:
-      - 
-        name: RowNewsList
-        title: News
-        subtitle: Latest
-        image: fas cube
       -
         name: RowButtonGrid
         cols:
@@ -77,48 +79,6 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-binary-application-data
                 target: _blank
-              - 
-                title: Connectivity Management
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-connectivity-management
-                target: _blank
-              - 
-                title: Device Capabilities Management
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-device-capabilities-management
-                target: _blank
-              - 
-                title: Event Log
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-event-log
-                target: _blank
-              - 
-                title: Lock & Wipe
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-lock--wipe
-                target: _blank
-              - 
-                title: Portfolio Object
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-portfolio-object
-                target: _blank
-              - 
-                title: Software Management
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-software-management
-                target: _blank
-              - 
-                title: LwM2M Virtual Observation
-                subtitle:
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-virtual-observation
-                target: _blank
           -
             title: Resources
             subtitle: Information
@@ -127,13 +87,13 @@ modules:
               - 
                 title: LwM2M Registry
                 subtitle:
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html
                 target: _blank
               - 
                 title: Developer's Wiki
                 subtitle:
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki
                 target: _blank
           -
@@ -144,19 +104,19 @@ modules:
               - 
                 title: Leshan
                 subtitle: (Eclipse)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/eclipse/leshan
                 target: _blank
               - 
                 title: Wakaama
                 subtitle: (Eclipse)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/eclipse/wakaama
                 target: _blank
               - 
                 title: Anjay
                 subtitle: (AVSystem)
-                status: highlight  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/AVSystem/Anjay
                 target: _blank
       - 
@@ -184,37 +144,17 @@ modules:
     name: RowSeparator
     size: XL #provide XS, S, M, L, XL spacing between component
   -
-    name: RowImageText
-    cols: 3
-    image: images/dmse.png
-    status: second #second-wide (extend the width of the image), "second" provides a background color to the text or empty
-    text: | 
-      ##### **Device Management & Service Enablement Working Group**
-
-      *Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service Enablement Working Group (DMSE WG) specifies protocols and mechanisms to achieve the management of mobile devices, services access and software on connected devices across networks.*
-      
-      Since 2002, the DMSE WG has released a suite of specifications which includes 20+ mobile service enabler specifications and more than 60 Management Objects providing simple, reliable and cost-effective ways to deploy new applications and services while minimizing the risk. The most market diffused of the Management Objects is certainly the Firmware Update Management Object (FUMO) with **deployments in the billions of devices**. An additional 20+ Management Objects have been defined by other standards organizations, which cooperate with OMA SpecWorks to avoid fragmentation and duplication. DMSE technologies easily manage converged and multi-mode devices on any network, including devices that do not have a SIM card, as well as resource-constrained devices. Explore the OMA [DMSE](https://technical.openmobilealliance.org/index.html)and [LwM2M](https://openmobilealliance.github.io/dmse-documentation/) specifications.
-
-  -
-    name: RowSeparator
-    size: XL #provide XS, S, M, L, XL spacing between component
-  -
     name: RowTextImage
-    cols: 9
-    image: images/ipso.png
+    cols: 6
+    image: /images/working_together_2.jpg
     status: #second-wide
     text: | 
       ##### **IPSO Smart Objects Working Group (IPSO)**
-      In December 2017, the IPSO Alliance joined forces with the Open Mobile Alliance. OMA SpecWorks was launched in early 2018 from the two organizations and the IPSO Smart Objects Working Group (IPSO WG) was formed. The IPSO WG is focused on enabling IoT devices to communicate, understand and trust each other with global interoperability based on open standards.
-
-      IPSO WG’s charter is to develop, establish, and create the industry leadership of an “IPSO Platform” that includes the definition and support of Smart Objects with an emphasis on object interoperability on protocol and data layers and of Identity and Privacy technologies. The mission is to create a platform and support system that includes libraries, repositories, design kits, and industry awareness for discovery and interoperability of IoT Smart Objects.
-
       The IPSO Alliance is not a standards organization, but an alliance that promotes and supports Smart Objects, and manages an IPSO Smart Object Registry that includes libraries, icons and repositories to be used by worldwide standard definition organizations (SDOs), special interest groups (SIGs), open communities and original equipment manufacturers (OEMs). The creation of a fully functional IPSO Smart Object Registry provides an avenue for industry adoption. IPSO has the goal to create Smart Object definitions, instantiations, data models, design models, reference architectures, icons, and brand, which include all the attributes needed to be an integral component of an IoT Smart Object Marketplace.
   -
-    name: RowSeparator
-    size: L #provide XS, S, M, L, XL spacing between component
+    name: RowNewsCards
+    news: 
 ---
+##### **About OMA SpecWorks**
 
-##### ***About OMA SpecWorks***
-
-*OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.*
+>OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.

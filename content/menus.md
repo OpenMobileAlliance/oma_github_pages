@@ -42,9 +42,19 @@
            url: /faq/
            class: text-uppercase
     - 
+      title: About
+      description: Information about OMA DMSE / IPSO
+      url: /about/
+      class: text-uppercase
+    - 
       description: link to GitHub
       icon: "fab github"
       url: https://github.com/OpenMobileAlliance
       target: _blank
       class: ml-auto
+    -
+      title: Test
+      description:
+      url: /test/
+      class: text-uppercase
 ---
