@@ -37,7 +37,7 @@ modules:
         status: #second-wide
         text:  |
                ***Note***
-                IPSO Smart Objects Working Group (IPSO kdkdkd Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service 
+                >IPSO Smart Objects Working Group (IPSO kdkdkd Home to the widely deployed Internet of Things (IoT) protocol, LightweightM2M (LwM2M), the Device Management & Service 
   -
     name: RowMultiColumns
     cols: 2
