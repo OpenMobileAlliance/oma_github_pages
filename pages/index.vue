@@ -51,6 +51,11 @@
         :key="`${module.name}_${index}`"
         :size="module.size"
       />
+      <RowNewsCards
+        v-else-if="module.name === 'RowNewsCards'"
+        :key="`${module.name}_${index}`"
+        :news="news"
+      />
     </template>
       <Default :document="document"/>
   </Main>
