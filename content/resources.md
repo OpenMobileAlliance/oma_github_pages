@@ -15,7 +15,7 @@ modules:
   -
     name: RowTextImage
     cols: 3
-    image: "/images/resources.jpeg"
+    image: "/images/digital-library.jpeg"
     title: separator
     status:
 
