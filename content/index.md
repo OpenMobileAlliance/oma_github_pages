@@ -6,9 +6,6 @@ modules:
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
   -
-    name: RowNewsCards
-    news:
-  -
     name: RowText
     text: |
       ### Open Mobile Alliance - LightweighM2M
@@ -19,8 +16,8 @@ modules:
     size: S #provide XS, S, M, L, XL spacing between component
   -
     name: RowMultiColumns
-    cols: 2
-    widths: [10, 2]
+    cols: 1
+    widths: [12]
     modules:
       -
         name: RowButtonGrid
@@ -119,10 +116,6 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/AVSystem/Anjay
                 target: _blank
-      - 
-        name: RowButtonGrid
-        id: events
-        cols:
           -
             title: Events
             subtitle: Coming
@@ -131,7 +124,7 @@ modules:
               - 
                 title: Last Virtual Event
                 subtitle: 2021-Nov-10
-                status: deactive  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                status: pending  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Mar-2021
                 target: _blank
               - 
@@ -143,18 +136,14 @@ modules:
   -
     name: RowSeparator
     size: XL #provide XS, S, M, L, XL spacing between component
+  - 
+    name: RowText
+    text: |
+          ## News
   -
-    name: RowTextImage
-    cols: 6
-    image: /images/working_together_2.jpg
-    status: #second-wide
-    text: | 
-      ##### **IPSO Smart Objects Working Group (IPSO)**
-      The IPSO Alliance is not a standards organization, but an alliance that promotes and supports Smart Objects, and manages an IPSO Smart Object Registry that includes libraries, icons and repositories to be used by worldwide standard definition organizations (SDOs), special interest groups (SIGs), open communities and original equipment manufacturers (OEMs). The creation of a fully functional IPSO Smart Object Registry provides an avenue for industry adoption. IPSO has the goal to create Smart Object definitions, instantiations, data models, design models, reference architectures, icons, and brand, which include all the attributes needed to be an integral component of an IoT Smart Object Marketplace.
+    name: RowSeparator
+    size: L #provide XS, S, M, L, XL spacing between component
   -
     name: RowNewsCards
     news: 
 ---
-##### **About OMA SpecWorks**
-
->OMA SpecWorks is an innovative kind of Standards Development Organization (SDO) where the needs for wireless industry consensus versus the quick and accurate creation of specifications and other technical documentation are balanced via a working group-driven, efficient and [agile process](https://omaspecworks.org/what-is-oma-specworks/agile-process-for-standardization-in-todays-market-landscape/). As a non-profit organization with a long history in mobile and Internet of Things (IoT) technology development, OMA SpecWorks is a specifications factory where industry-leading companies bring their ideas and talent to build market-accelerating standards that allow products and services to interoperate seamlessly across fixed and mobile wireless data networks.
