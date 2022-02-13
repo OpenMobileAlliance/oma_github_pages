@@ -139,7 +139,7 @@ modules:
   - 
     name: RowText
     text: |
-          ## News
+          ## Latest News
   -
     name: RowSeparator
     size: L #provide XS, S, M, L, XL spacing between component
