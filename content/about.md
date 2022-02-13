@@ -150,10 +150,10 @@ modules:
             #</br>
             #</br>
             #The table on the left contains information related to Test of LightweightM2M protocol and free open-source implementations.
-      -
-        name: RowImage
-        image: /images/working_together_2.jpg
-        title: Working Together
+      - 
+        name: RowText
+        text: | 
+              This is new content
   -
     name: RowSeparator
     size: XL
