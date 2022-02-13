@@ -143,17 +143,10 @@ modules:
                 target: _blank
       -
         name: RowTextImage
-        cols: 1
         image: /images/working_together_2.jpg
-        #text: |
-            # Test Events
-            #</br>
-            #</br>
-            #The table on the left contains information related to Test of LightweightM2M protocol and free open-source implementations.
-      - 
-        name: RowText
-        text: | 
-              This is new content
+        cols: 1
+        #title: title of the rowimage
+        #status:
   -
     name: RowSeparator
     size: XL
