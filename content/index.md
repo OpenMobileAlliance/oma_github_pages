@@ -5,8 +5,8 @@ modules:
   -
     name: RowText
     text: |
-      ### Open Mobile Alliance - [DMSE](https://omaspecworks.org/about/the-oma-specworks-work-program/device-management-and-service-enablement-working-group/) / [IPSO](https://omaspecworks.org/about/the-oma-specworks-work-program/ipso-smart-objects-working-group/) Working Groups
-      These GitHub pages are dedicated to DMSE/IPSO Working Groups.
+      ### <h1>LwM2M</h1><br>The Lightweight Machine-to-Machine (LwM2M) protocol is a specialized Internet of Things device management protocol, which was initially designed for use with constrained devices and constrained networks in the Internet of Things (IoT). It is, however, also successfully used on high-end IoT devices as well. LwM2M is deployed in a variety of verticals, such as smart energy, building automation, precision farming, logistics, etc. The object and resource model defined for LwM2M allows extensiblity while maintaining interoperability. More than 300 objects and resources have been specified to retrieve sensor data, control actuators, and to manage application data. These objects and resources are free to use and publically available.
+      
   -
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
@@ -29,12 +29,36 @@ modules:
             image: fas cog
             items:
               -
-                title: V1.2
-                subtitle: 10-Nov-20
+                title: Version 1.2: CORE
+                subtitle: PDF Format
+                status: active
+                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf
+                target: _blank
+              -
+                title: Version 1.2: Transport
+                subtitle: PDF Format
+                status: active
+                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf
+                target: _blank
+              -
+                title: Version 1.2: CORE
+                subtitle: HTML Format
+                status: active
+                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/HTML-Version/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.html
+                target: _blank
+              -
+                title: Version 1.2: Transport
+                subtitle: HTML Format
+                status: active
+                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/HTML-Version/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.html
+                target: _blank
+              -
+                title: Version 1.2
+                subtitle: Zip File
                 status: active
                 url: https://openmobilealliance.github.io/dmse-documentation/#v12-functionality
                 target: _blank
-              - 
+              -
                 title: V1.1.1
                 subtitle: 17-Jun-2019
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
