@@ -3,15 +3,10 @@ title: Home page
 description: Main page of the web application
 modules:
   -
-    name: RowSeparator
-    size: S #provide XS, S, M, L, XL spacing between component
-  -
-    name: RowNewsCards
-    news:
-  -
     name: RowText
     text: |
-      ### The Lightweight Machine-to-Machine (LwM2M) protocol is a specialized Internet of Things device management protocol, which was initially designed for use with constrained devices and constrained networks in the Internet of Things (IoT). It is, however, also successfully used on high-end IoT devices as well. LwM2M is deployed in a variety of verticals, such as smart energy, building automation, precision farming, logistics, etc. The object and resource model defined for LwM2M allows extensiblity while maintaining interoperability. More than 300 objects and resources have been specified to retrieve sensor data, control actuators, and to manage application data. These objects and resources are free to use and publically available.
+          # LwM2M 
+          The Lightweight Machine-to-Machine (LwM2M) protocol is a specialized Internet of Things device management protocol, which was initially designed for use with constrained devices and constrained networks in the Internet of Things (IoT). It is, however, also successfully used on high-end IoT devices as well. LwM2M is deployed in a variety of verticals, such as smart energy, building automation, precision farming, logistics, etc. The object and resource model defined for LwM2M allows extensiblity while maintaining interoperability. More than 300 objects and resources have been specified to retrieve sensor data, control actuators, and to manage application data. These objects and resources are free to use and publically available.
   -
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
@@ -29,25 +24,25 @@ modules:
             image: fas cog
             items:
               -
-                title: Version 1.2: CORE
+                title: Version 1.2 - CORE
                 subtitle: PDF Format
                 status: active
                 url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf
                 target: _blank
               -
-                title: Version 1.2: Transport
+                title: Version 1.2 - Transport
                 subtitle: PDF Format
                 status: active
                 url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf
                 target: _blank
               -
-                title: Version 1.2: CORE
+                title: Version 1.2 - CORE
                 subtitle: HTML Format
                 status: active
                 url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/HTML-Version/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.html
                 target: _blank
               -
-                title: Version 1.2: Transport
+                title: Version 1.2 - Transport
                 subtitle: HTML Format
                 status: active
                 url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/HTML-Version/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.html
@@ -100,6 +95,48 @@ modules:
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-binary-application-data
+                target: _blank
+              - 
+                title: Connectivity Management
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-connectivity-management
+                target: _blank
+              - 
+                title: Device Capabilities Management
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-device-capabilities-management
+                target: _blank
+              - 
+                title: Event Log
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-event-log
+                target: _blank
+              - 
+                title: Lock & Wipe
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-lock--wipe
+                target: _blank
+              - 
+                title: Portfolio Object
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-portfolio-object
+                target: _blank
+              - 
+                title: Software Management
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-software-management
+                target: _blank
+              - 
+                title: LwM2M Virtual Observation
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-virtual-observation
                 target: _blank
           -
             title: Resources
@@ -172,3 +209,4 @@ modules:
     name: RowNewsCards
     news: 
 ---
+
