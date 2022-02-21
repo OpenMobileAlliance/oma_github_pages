@@ -41,6 +41,11 @@
            title: F.A.Q
            url: /faq/
            class: text-uppercase
+    -
+      title: About
+      description: page dedicated to explain what is DMSE and IPSO WGs
+      url: /about/
+      class: text-uppercase
     - 
       description: link to GitHub
       icon: "fab github"
