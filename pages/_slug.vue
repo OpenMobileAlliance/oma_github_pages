@@ -44,6 +44,17 @@
         :key="`${module.name}_${index}`"
         :size="module.size"
       />
+     <RowNewsCards
+        v-else-if="module.name === 'RowNewsCards'"
+        :key="`${module.name}_${index}`"
+        :news="news"
+      />
+      <RowMultiColumns
+        v-if="module.name === 'RowMultiColumns'"
+        :key="`${module.name}_${index}`"
+        :config="module"
+        :values="[]"
+      />
     </template>
     <Default :document="document" />
   </Main>
@@ -54,13 +65,36 @@ export default {
   data() {
     return {
       document: {
-        modules: []
+        modules: [],
+        news: [],
       }
     }
   },
   async fetch() {
     const doc = await this.$content(this.$route.params.slug).fetch()
     this.document = doc
+
+    const news = await this.$content('news')
+      .where({
+        homepage: {
+          $gt: 0,
+        },
+      })
+      .only([
+        'image',
+        'title',
+        'subtitle',
+        'homepage',
+        'by',
+        'date',
+        'tags',
+        'slug',
+        'excerpt',
+      ])
+      .sortBy('homepage', 'asc')
+      .fetch()
+
+    this.news = news
   }
 }
 </script>
