@@ -2,20 +2,27 @@
 modules:
   - 
     name: RowText
+    #header: h1 # optional h1, h2, h3, h4, h5 , h6, h7
     text: |
           # **About OMA SpecWorks**
-          This page is about OMA SpecsWork.
+          These are the possible headers.
+          <h1>Title H1</h1>
+          <h2>Title H2</h2>
+          <h3>Title H3</h3>
+          <h4>Title H4</h4>
+          <h5>Title H5</h5>
+          <h6>Title H6</h6>
+          <h7>Title H7</h7>
   -
     name: RowMultiColumns
-    cols: 2
-    widths: [6,6]
+    cols: 4
+    widths: [6,2,2,2]
     modules:
       - name: RowText
         text: |
               ### LwM2M Protocol, Enablers & Registry
               </br></br>
               The table on the right contains the links to the different versions of the LightweighM2M Protocol, LightweightM2M related Enablers and the LightweighM2M Registry.
-
       -
         name: RowButtonGrid
         cols:
@@ -42,6 +49,9 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://openmobilealliance.github.io/dmse-documentation/#v10-functionality
                 target: _blank
+      -
+        name: RowButtonGrid
+        cols:
           -
             title: LwM2M
             subtitle: Enablers
@@ -53,6 +63,9 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-binary-application-data
                 target: _blank
+      -
+        name: RowButtonGrid
+        cols:
           -
             title: Resources
             subtitle: Information
@@ -65,7 +78,7 @@ modules:
                 url: http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html
                 target: _blank
               - 
-                title: Developer's Wiki
+                title: Developer's Wikiss
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki
@@ -75,8 +88,8 @@ modules:
     size: XL
   -
     name: RowMultiColumns
-    cols: 2
-    widths: [6,6]
+    cols: 4
+    widths: [3,3,3,3]
     modules:
       -
         name: RowButtonGrid
@@ -101,6 +114,9 @@ modules:
                 subtitle: 18-Aug-2015
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: http://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M-V1_0_2-20180815-A.zip
+      -
+        name: RowButtonGrid
+        cols:
           -
             title: Implementations
             subtitle: Code
@@ -124,6 +140,9 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/AVSystem/Anjay
                 target: _blank
+      -
+        name: RowButtonGrid
+        cols:
           -
             title: Events
             subtitle: Coming
@@ -241,8 +260,43 @@ modules:
     name: RowSeparator
     size: L #provide XS, S, M, L, XL spacing between component
   -
+    name: RowText
+    text: |
+          ## Current `RowNewsCards` module
+          >```md
+           name: RowNewsCards
+           news:
+          ```
+  -
     name: RowNewsCards
     news: 
+  -
+    name: RowText
+    text: |
+          ## Proposal for a new `RowNewsCards` module
+          The following code provides a suggestion how `RowNewsCards` should be defined.
+
+          > ```md
+          >- 
+            name: RowMulticolumn
+            cols: 3
+              -
+                name: RowNewsCards
+                news:
+                  -
+                    file: 2021-03-02-uCIF.md
+                    file: 2021-05-10-ENISA-lwm2m-wp.md
+              -
+                name: RowNewsCards
+                news:
+                  -
+                    file: 2021-05-10-ENISA-lwm2m-wp.md
+              -
+                name: RowNewsCards
+                news:
+                  -
+                    file: 2021-03-02-uCIF.md
+          ```
   - 
     name: RowText
     text: |
