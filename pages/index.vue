@@ -62,9 +62,7 @@
 </template>
 
 <script>
-import RowSeparator from '~/components/row/RowSeparator.vue'
 export default {
-  components: { RowSeparator },
   data() {
     return {
       document: {},
