@@ -34,10 +34,10 @@
           :class="{'active': isRouteActive }"
           exact-active-class="active"
           >
-            <FontAwesomeIcon :icon="menu.icon.split(' ')" />
+            <font-awesome-icon :icon="menu.icon.split(' ')" />
           </b-nav-item>
           <b-nav-item v-else :to="menu.url" :class="{'active': isRouteActive }" exact-active-class="active">
-            <FontAwesomeIcon :icon="menu.icon.split(' ')" />
+            <font-awesome-icon :icon="menu.icon.split(' ')" />
           </b-nav-item>
         </b-navbar-nav>
         <b-navbar-nav

@@ -2,7 +2,7 @@
   <div class="row-news-list">
     <b-row>
       <b-col class="text-center text-primary col-title">
-        <FontAwesomeIcon :icon="config.image.split(' ')" class="fa-2x"/>
+        <font-awesome-icon :icon="config.image.split(' ')" class="fa-2x"/>
         <p class="h5 mb-0">{{ config.title }}</p>
         <p class="col-title-subtitle font-italic">{{ config.subtitle }}</p>
       </b-col>
