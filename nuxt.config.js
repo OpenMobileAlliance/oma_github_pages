@@ -38,6 +38,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
+    '@nuxtjs/fontawesome',
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
   ],
@@ -46,8 +47,6 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
-
-    '@nuxtjs/fontawesome',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/content
