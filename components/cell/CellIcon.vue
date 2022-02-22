@@ -1,5 +1,5 @@
 <template>
-  <FontAwesomeIcon :icon="icon.split(' ')" />
+  <font-awesome-icon :icon="icon.split(' ')" />
 </template>
 
 <script>

@@ -5,10 +5,10 @@
     :target="target"
     :class="[{ disabled: !url }]"
   >
-    <FontAwesomeIcon :icon="icon.split(' ')" />
+    <font-awesome-icon :icon="icon.split(' ')" />
   </b-link>
   <b-link v-else :to="url ? url : '#'" :class="[{ disabled: !url }]">
-    <FontAwesomeIcon :icon="icon.split(' ')" />
+    <font-awesome-icon :icon="icon.split(' ')" />
   </b-link>
 </template>
 

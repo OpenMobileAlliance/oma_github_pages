@@ -4,7 +4,7 @@
     <b-row>
       <b-col v-for="(col, index) in config.cols" :key="`${col.title}_${index}`">
         <div class="text-center text-primary col-title">
-          <FontAwesomeIcon :icon="col.image.split(' ')" class="fa-2x" />
+          <font-awesome-icon :icon="col.image.split(' ')" class="fa-2x" />
           <p class="h5 mb-0">{{ col.title }}</p>
           <p class="col-title-subtitle font-italic">{{ col.subtitle }}</p>
         </div>

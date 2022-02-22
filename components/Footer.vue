@@ -10,19 +10,19 @@
         <b-col>
           <b-nav class="float-right">
             <b-nav-item href="https://twitter.com/OMASpecWorks" target="_blank">
-              <FontAwesomeIcon :icon="['fab', 'twitter']" />
+              <font-awesome-icon :icon="['fab', 'twitter']" />
             </b-nav-item>
             <b-nav-item
               href="https://www.facebook.com/OMASpecWorks"
               target="_blank"
             >
-              <FontAwesomeIcon :icon="['fab', 'facebook']" />
+              <font-awesome-icon :icon="['fab', 'facebook']" />
             </b-nav-item>
             <b-nav-item
               href="https://github.com/OpenMobileAlliance"
               target="_blank"
             >
-              <FontAwesomeIcon :icon="['fab', 'github']" />
+              <font-awesome-icon :icon="['fab', 'github']" />
             </b-nav-item>
           </b-nav>
         </b-col>
