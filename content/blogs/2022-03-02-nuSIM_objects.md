@@ -1,6 +1,6 @@
 ---
 layout: blog
-image: /images/news/nuSIM.jpg
+image: /images/news/nuSIM_Label_1C_tagline_3C.png
 title: LwM2M Objects for nuSIM Integrated SIM
 subtitle: OMA SpeckWorks defines new Objects for nuSIM
 description: nuSIM is an optimized iSIM solution for IoT
