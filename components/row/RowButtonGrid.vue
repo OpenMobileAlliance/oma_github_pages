@@ -3,7 +3,7 @@
   <div :id="config.id" class="row-button-grid">
     <b-row>
       <b-col v-for="(col, index) in config.cols" :key="`${col.title}_${index}`">
-        <div class="text-center text-primary col-title">
+        <div class="text-center text-primary col-title mb-3">
           <FontAwesomeIcon :icon="col.image.split(' ')" class="fa-2x" />
           <p class="h5 mb-0">{{ col.title }}</p>
           <p class="col-title-subtitle font-italic">{{ col.subtitle }}</p>
