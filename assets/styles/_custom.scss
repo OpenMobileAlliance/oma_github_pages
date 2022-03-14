@@ -1,4 +1,4 @@
-$primary: #0c90e9 !default;
+$primary: #180A0A !default;
 $secondary: #c0172a !default;
 $link-color: #f06449 !default;
 
@@ -10,9 +10,10 @@ body {
   height: 100% !important;
   display: flex !important;
   flex-direction: column !important;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Roboto', 'Nunito Sans', 'Arial', 'Open Sans Light', 'Merriweather Sans', sans-serif;
   color: #888;
   font-weight: lighter;
+  font-size: larger;
 }
 img {
   max-height: 100%;
@@ -250,18 +251,18 @@ blockquote {
 }
 .row-button-grid .button-title {
   margin: 0;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: bolder;
 }
 
 .row-button-grid .button-subtitle {
   margin: 0;
-  font-size: 0.6rem;
+  font-size: 0.9rem;
   font-style: oblique;
 }
 .row-button-grid .active {
-  background-color: #cee5d0;
-  color: #ff7878;
+  background-color: #EFEFEF;
+  color: #180A0A;
 }
 
 .row-button-grid .deactive {
@@ -271,8 +272,8 @@ blockquote {
   color: #413c58;
 }
 .row-button-grid .pending {
-  background-color: #e0c097;
-  color: #f06449;
+  background-color: #D1D1D1;
+  color: #180A0A;
 }
 .row-button-grid .highlight {
   background-color: #ff7878;
