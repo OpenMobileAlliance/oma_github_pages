@@ -3,13 +3,10 @@ title: Home page
 description: Main page of the web application
 modules:
   -
-    name: RowSeparator
-    size: S #provide XS, S, M, L, XL spacing between component
-  -
     name: RowText
     text: |
-      ### Open Mobile Alliance - LightweighM2M
-      [DMSE](https://omaspecworks.org/about/the-oma-specworks-work-program/device-management-and-service-enablement-working-group/) / [IPSO](https://omaspecworks.org/about/the-oma-specworks-work-program/ipso-smart-objects-working-group/) Working Groups are responsible for the development and maintenance of the LightweightM2M Protocol as well as OMNA LwM2M Registry.
+          # LwM2M 
+          The Lightweight Machine-to-Machine (LwM2M) protocol is a specialized Internet of Things device management protocol, which was initially designed for use with constrained devices and constrained networks in the Internet of Things (IoT). It is, however, also successfully used on high-end IoT devices as well. LwM2M is deployed in a variety of verticals, such as smart energy, building automation, precision farming, logistics, etc. The object and resource model defined for LwM2M allows extensiblity while maintaining interoperability. More than 300 objects and resources have been specified to retrieve sensor data, control actuators, and to manage application data. These objects and resources are free to use and publically available.
 
   -
     name: RowSeparator
