@@ -5,14 +5,16 @@ $link-color: #f06449 !default;
 @import '~bootstrap/scss/bootstrap';
 @import '~bootstrap-vue/src/index.scss';
 @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,300;1,500;1,900&display=swap');
 
 body {
   height: 100% !important;
   display: flex !important;
   flex-direction: column !important;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Nunito Sans', 'Roboto',  'Arial', 'Open Sans Light', 'Merriweather Sans', sans-serif;
   color: #888;
   font-weight: lighter;
+  font-size: larger;
 }
 img {
   max-height: 100%;
@@ -250,18 +252,18 @@ blockquote {
 }
 .row-button-grid .button-title {
   margin: 0;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: bolder;
 }
 
 .row-button-grid .button-subtitle {
   margin: 0;
-  font-size: 0.6rem;
+  font-size: 0.9rem;
   font-style: oblique;
 }
 .row-button-grid .active {
-  background-color: #cee5d0;
-  color: #ff7878;
+  background-color: #EFEFEF;
+  color: #180A0A;
 }
 
 .row-button-grid .deactive {
@@ -271,8 +273,8 @@ blockquote {
   color: #413c58;
 }
 .row-button-grid .pending {
-  background-color: #e0c097;
-  color: #f06449;
+  background-color: #D1D1D1;
+  color: #180A0A;
 }
 .row-button-grid .highlight {
   background-color: #ff7878;
