@@ -2,6 +2,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   ssr: false, // Disable Server Side rendering
+  generate: {
+    fallback: true
+  },
   router: {
     trailingSlash: true
   },
