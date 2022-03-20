@@ -15,6 +15,7 @@ export default {
     }
   },
   async fetch() {
+    const tag = this.$route.query.tag
     let doc = await this.$content('blogs')
     .only([
       'image', 'title', 'subtitle', 'url', 'by', 'date', 'tags', 'slug', 'author', 'excerpt'
@@ -36,9 +37,9 @@ export default {
     }
 
 
-    if (this.$route.query.tag) {
+    if (tag) {
       doc = doc.filter(item => {
-        return item.tags.includes(this.$route.query.tag)
+        return item.tags && item.tags.includes(tag)
       })
     }
 
