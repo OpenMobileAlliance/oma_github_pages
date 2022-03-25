@@ -180,7 +180,7 @@ modules:
                 target: _blank
           -
             title: Events
-            subtitle: Coming
+            subtitle: Future/Past
             image: fas users
             items:
               - 
