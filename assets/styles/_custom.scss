@@ -12,7 +12,7 @@ body {
   display: flex !important;
   flex-direction: column !important;
   font-family: 'Nunito Sans', 'Roboto',  'Arial', 'Open Sans Light', 'Merriweather Sans', sans-serif;
-  color: #888;
+  color: #000;
   font-weight: lighter;
   font-size: larger;
 }
@@ -82,11 +82,11 @@ a.disabled {
   height: 100px;
 }
 .col-title  .h5 {
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   margin-top: 0.5rem;
 }
 .col-title-subtitle {
-  font-size: 0.7rem;
+  font-size: 1rem;
 }
 
 .border-image {
