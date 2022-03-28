@@ -13,11 +13,10 @@ modules:
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
   -
-    name: RowTextImage
-    cols: 3
+    name: RowImage
     image: "/images/resources.png"
     title: separator
-    status:
+    status: text-center
 
   -
     name: RowDynamicTable
