@@ -25,6 +25,13 @@ img {
   padding: 60px 15px 90px;
 }
 
+
+/* changing the font of the main navigation menu */
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+  font-weight: 300;
+}
+
 .main-nav-bar a.dropdown-item:hover {
   border-bottom: 3px solid #f06449;
   color: #f06449;
