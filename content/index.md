@@ -66,26 +66,6 @@ modules:
                 url: https://openmobilealliance.github.io/dmse-documentation/#v10-functionality
                 target: _blank
           -
-            title: Test
-            subtitle: Specs
-            image: fas check-circle
-            items:
-              -
-                title: V1.2
-                subtitle: Pending
-                status: pending  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url:
-              - 
-                title: V1.1
-                subtitle: 12-Sep-2019
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: http://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M-V1_1-20190912-D.pdf
-              - 
-                title: V1.0.2
-                subtitle: 18-Aug-2015
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: http://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M-V1_0_2-20180815-A.zip
-          -
             title: LwM2M
             subtitle: Enablers
             image: fas spinner
@@ -155,6 +135,21 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki
                 target: _blank
+              -
+                title: Test V1.2
+                subtitle: Pending
+                status: pending  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url:
+              - 
+                title: Test V1.1
+                subtitle: 12-Sep-2019
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: http://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M-V1_1-20190912-D.pdf
+              - 
+                title: Test V1.0.2
+                subtitle: 18-Aug-2015
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: http://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M-V1_0_2-20180815-A.zip
           -
             title: Implementations
             subtitle: Code
