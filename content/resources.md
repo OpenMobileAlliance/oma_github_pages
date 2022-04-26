@@ -47,7 +47,7 @@ modules:
       - title:
           title: LwM2M v1.2 Features
         type:
-          title: PDF
+          title: FTP
         published:
           title: 2020-Nov-10
         download:
@@ -61,7 +61,7 @@ modules:
         published:
           title: 2019-Jun-17
         download:
-          url: "https:/www.openmobilealliance.org/release/LightweightM2M/Lightweight_Machine_to_Machine-v1_1-OMASpecworks.pdf"
+          url: "https://www.openmobilealliance.org/release/LightweightM2M/Lightweight_Machine_to_Machine-v1_1-OMASpecworks.pdf"
           target: _blank
           icon: fas download
       - title:
