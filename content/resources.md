@@ -126,4 +126,34 @@ modules:
           title: 
         download:
           icon: 
+      - title:
+          title: OMA WhitePaper e2e Security for IoT
+        type:
+          title: PDF
+        published:
+          title: 2019-Oct-24
+        download:
+          url: "http://openmobilealliance.org/documents/whitepapers/OMA-WP-e2e_Sec_IoT-20191024-A.pdf"
+          target: _blank
+          icon: fas download
+      - title:
+          title: OMA WhitePaper Protocol Comparison
+        type:
+          title: PDF
+        published:
+          title: 2020-Jan-21
+        download:
+          url: "http://www.openmobilealliance.org/documents/whitepapers/OMA-WP-Protocol_Comparison-V1_0-20200121-A.pdf"
+          target: _blank
+          icon: fas download
+      - title:
+          title: OMA WP Managing Non-IP Devices in Cellular IoT Networks
+        type:
+          title: PDF
+        published:
+          title: 2018-Jan-18
+        download:
+          url: "https://omaspecworks.org/wp-content/uploads/2018/10/Whitepaper-11.1.18.pdf "
+          target: _blank
+          icon: fas download
 --- 
