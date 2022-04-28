@@ -182,7 +182,7 @@ modules:
                 title: Previous TestFests
                 subtitle: Events
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Mar-2021
+                url: https://guidelines.openmobilealliance.org/testfests
                 target: _blank
   -
     name: RowSeparator
