@@ -6,7 +6,7 @@ subtitle: OMA SpecWorks defines new Objects for nuSIM
 description: nuSIM is an optimized iSIM solution for IoT
 url: 
 date: 2022-Apr-12
-by:  T-Mobile
+by:  Jean Trakinat
 author: Jean Trakinat
 tags:
 ---
