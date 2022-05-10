@@ -173,6 +173,12 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/AVSystem/Anjay
                 target: _blank
+              - 
+                title: Editor Tool
+                subtitle: LwM2M
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://devtoolkit.openmobilealliance.org/OEditor/Legal?back=default.aspx
+                target: _blank
           -
             title: Events
             subtitle: Future/Past
