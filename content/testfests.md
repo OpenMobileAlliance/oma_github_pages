@@ -6,7 +6,7 @@ modules:
     name: RowText
     text: | 
       
-      ### TestFests
+      ## TestFests
       </br>
       OMA TestFests are designed to achieve a number of goals, including:
 
@@ -29,8 +29,6 @@ modules:
     text: | 
 
       TestFests are held in a confidential and secure testing environment where companies can bring their Client or Server implementation(s) based on an OMA Enabler to test in multiple multi-vendor combinations. These events are open to both OMA member and non-member companies.)
-
-      You can find more on [OMA TestFests](https://omaspecworks.org/events/testfests-registration/) page.
   -
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
@@ -41,7 +39,7 @@ modules:
       
       </br>
 
-      ### Next OMA LwM2M TestFest
+      ## Next OMA LwM2M TestFest
       </br>
       
       Information            | Details
@@ -58,10 +56,14 @@ modules:
 ---
 </br>
 
-### Previous TestFest
-* See list [here](#list-of-testfests)
+## Previous TestFest
 
-### TestFest Frequent Asked Questions
+Over the years, OMA has organized several LwM2M TestFest and Workshop Events. A full list of Events can be seen <a href="(https://guidelines.openmobilealliance.org/testfests)" target="_blank">here</a>
+
+## TestFest Frequent Asked Questions
+
+This section aims to provide an overview of what is an OMA TestFest Event, and what you can expect out of the Event.
+
 #### What is an OMA SpecWorks TestFest?
 
 OMA TestFests are designed to achieve a number of goals, including:
@@ -76,7 +78,7 @@ TestFests are held in a confidential and secure testing environment where compan
 
 See at the top of this web page.
 
-There are 1 to 2 TestFest events held per year. These events are hosted in a variety of locations and venues throughout North America, Europe, and Asia. Registration fees are per implementation (engineers are free to attend) and vary based on the expenses estimated to cover the event. If you are interested in hosting a TestFest at your company’s facility, please contact our [staff](https://omaspecworks.org/contact-us/).
+There are 1 to 2 TestFest events held per year. These events are hosted in a variety of locations and venues throughout North America, Europe, and Asia. Registration fees are per implementation (engineers are free to attend) and vary based on the expenses estimated to cover the event. If you are interested in hosting a TestFest at your company’s facility, please contact our <a href="https://omaspecworks.org/contact-us/" target="_blank">staff</a>.
 
 #### Prerequisites for a TestFest
 
@@ -84,7 +86,7 @@ TestFests are open to the public, as long as you fulfill the following criteria 
 
 * You have a unique implementation of an OMA Enabler, developed by the company or in direct association with a third party
 * You have implemented all mandatory features of the Enabler to be tested
-* You have passed any entry conformance or other preparatory tests defined for the event, listed in the appendix section of the Enabler Test Specifications: “Entry Criteria for a TestFest”
+* You have passed any entry conformance or other preparatory tests defined for the event, listed in the appendix section of the Enabler Test Specifications: `Entry Criteria for a TestFest`
 * You have signed a Non-Disclosure Agreement (NDA), provided by OMA, prior to attending the TestFest
 
 #### Registering for a TestFest
@@ -99,31 +101,21 @@ Participating teams may download the test material to be used during the event u
 
 When on-site, the Client teams will be required to complete a Test Session Report for each test session, verified by the Server team. These reports record the results that apply to all of the test cases that are part of the Enabler Test Specification defined by the members. Each report is confidential to the companies participating in that session.
 
-At the end of the TestFest, OMA SpecWorks publicly posts the results of the event on the [LwM2M for Developers Wiki](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-October-TestFest-Results) page via GitHub. In the right hand column, you will see the name of each TestFest event listed. When you click on an event, a summary of the results are available for download (PDF). This report is an indication to the OMA SpecWorks Technical Plenary of both the completeness of the Specification as well as the quality of the implementations that are being tested.
+At the end of the TestFest, OMA SpecWorks publicly posts the results of the event on the <a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">TestFest Events</a> page via a <a href="https://github.com/OpenMobileAlliance/dmse-documentation/tree/master/content/en" target="_blank">GitHub repo</a>. In the table you will see:
+* Who is the Event host, _(if you are interesting in hosting an event please contact the <a href="https://omaspecworks.org/contact-us/" target="_blank">staff</a>_
+* Physical location of the Event,
+* Date of the Event,
+* Consolidated test results for all the participants, _available for download in PDF_, and
+* Individual results per company, implementation and version. _See Product Listing_ below.
 
-Lastly, OMA SpecWorks hosts a [Product Listings](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Product-Listing) page on GitHub as well. Participating companies have the opportunity to market your product which features the OMA Enabler tested.
+ The consolidated report provides an indication to the OMA Working Group of both, the completeness of the Specification as well as the quality of the implementations that are being tested. Based on the consolidated results from more than one TestFest Event, the Working Group may decide to formally Approved the Technical Specifications.
+
+Lastly, OMA SpecWorks hosts a <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Product-Listing" target="_blank">Product Listing</a> page in a <a href="https://guidelines.openmobilealliance.org/listing" target="_blank">GitHub repo</a> where companies have the opportunity to market the implementation that has been tested. 
 
 #### Reporting Issues with the Specification
 
-One of the important aspects of any interoperability testing session is to record and process the problems found in the implementations being tested. In order for the relevant working groups to determine how a problem should be resolved, TestFest participants may have the opportunity to raise their queries directly with the corresponding Technical Working Group.
+One of the important aspects of any interoperability testing session is to record and process the issues found during the TestFest Event. This will allow the corresponding Working Groups to determine how the issue should be resolved, TestFest participants may have the opportunity to raise their queries directly with the corresponding Technical Working Group.
 
-For LWM2M Test events, participants are asked to submit any issues they encounter with the specification on the OMA GitHub [Issue Reporting Tool](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues), which is monitored by the Device Management Working Group.
+For LWM2M Test events, participants are asked to submit any issues they encounter with the specification on the OMA GitHub <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues" target="_blank">Issues - LwM2M for Developers</a>. This repository  is monitored by the <a href="https://lwm2m.openmobilealliance.org/about/" target="_blank">Device Management Working Group</a> and the <a href="https://lwm2m.openmobilealliance.org/about/" target="_blank">IPSO Working Group</a>.
 
-### List of TestFests
-
-This is the list of previous **OMA LwM2M TestFests** organized by **OMA SpecWorks**:
-Event Name / Date                            | Date
----------------------------------------------|-------------------------------------
-[Virtual TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Mar-2021)              | March 2021
-[Virtual TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2020-Apr-Virtual-TestFest-Results)      | April 2020
-[Korea TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2019-Oct-TestFest-Results)                   | October 2019
-[Korea TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2018-Jul-TestFest-Results)                   | July 2018
-[Warsaw TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2017-Nov-TestFest-Results)                   | November 2017
-[Pittsburgh TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-May-IoT-Platform-Training-%28Workshop%29)  | May 2017
-[Singapore TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-October-TestFest-Results)          | October 2016
-[Edinburgh Workshop](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2017-May-TestFest-Results)              | May 2016
-[San Diego TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-January-TestFest-Results)          | January 2016
-[San Diego Workshop](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-January-Hands-on-IoT-Training-and-Workshop)  | January 2016
-[Dusseldorf TestFest](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/TestFest-Dusseldorf-26th-to-29th-Jan-2015)        | January 2015
-[Dusseldorf Workshop](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Workshop-Dusseldorf-28th-Jan-2015)                | January 2015
 
