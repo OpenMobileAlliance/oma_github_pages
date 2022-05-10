@@ -29,12 +29,8 @@
       description: News & BLog pages of the OMA DMSE
       class: text-uppercase
       items:
-        - 
-           title: Blogs
-           url: /blogs/
-           class: text-uppercase
         -
-           title: News
+           title: News & Blogs
            url: /news/
            class: text-uppercase
         -

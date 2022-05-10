@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: news
 image:
 title: LwM2M v1.2 is now available!
 subtitle: Latest LwM2M Protocol version
@@ -7,7 +7,7 @@ description: The standardization work on the LwM2M v1.2 specification has been c
 url: 
 date: 2020-Dec-09
 by:  OMA SpecWorks
-author: Hannes Tschofening
+homepage: 5
 tags:
     - v1.2
     - Release
