@@ -28,7 +28,7 @@ modules:
     name: RowText
     text: | 
 
-      TestFests are held in a confidential and secure testing environment where companies can bring their Client or Server implementation(s) based on an OMA Enabler to test in multiple multi-vendor combinations. These events are open to both OMA member and non-member companies.)
+      TestFests are held in a confidential and secure testing environment where companies can bring their Client or Server implementation(s) based on an OMA Enabler to test in multiple multi-vendor combinations. These events are open to both OMA member and non-member companies.
   -
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
@@ -58,7 +58,7 @@ modules:
 
 ## Previous TestFest
 
-Over the years, OMA has organized several LwM2M TestFest and Workshop Events. A full list of Events can be seen <a href="(https://guidelines.openmobilealliance.org/testfests)" target="_blank">here</a>
+Over the years, OMA has organized several LwM2M TestFest and Workshop Events. A full list of Events can be seen <a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">TestFest Events</a>
 
 ## TestFest Frequent Asked Questions
 
@@ -110,7 +110,7 @@ At the end of the TestFest, OMA SpecWorks publicly posts the results of the even
 
  The consolidated report provides an indication to the OMA Working Group of both, the completeness of the Specification as well as the quality of the implementations that are being tested. Based on the consolidated results from more than one TestFest Event, the Working Group may decide to formally Approved the Technical Specifications.
 
-Lastly, OMA SpecWorks hosts a <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Product-Listing" target="_blank">Product Listing</a> page in a <a href="https://guidelines.openmobilealliance.org/listing" target="_blank">GitHub repo</a> where companies have the opportunity to market the implementation that has been tested. 
+Lastly, OMA SpecWorks hosts a <a href="https://guidelines.openmobilealliance.org/listing" target="_blank">Product Listing</a> page in a <a href="https://github.com/OpenMobileAlliance/dmse-documentation/tree/master/content/en" target="_blank">GitHub repo</a> where companies have the opportunity to market the implementation that has been tested. 
 
 #### Reporting Issues with the Specification
 
