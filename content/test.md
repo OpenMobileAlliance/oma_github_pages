@@ -1,17 +1,11 @@
 ---
 title: Test
-description: Main page of the web application
+description: Page dedicated to test functionality
 modules:
   -
-    name: RowImageText
-    cols: 6
-    image: /images/dmse.png
-    status: second #second-wide (extend the width of the image), "second" provides a background color to the text or empty
-    text: | 
-      ##### **Device Management & Service Enablement Working Group**
-  -
-    name: RowSeparator
-    size: S #provide XS, S, M, L, XL spacing between component
+    name: RowText
+    text: |
+          ## RowMulticolum with RowButtonGrid
   -
     name: RowMultiColumns
     cols: 2
@@ -65,12 +59,37 @@ modules:
                 url: https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Mar-2021
                 target: _blank
   -
-    name: RowImageText
-    cols: 4
-    image: /images/dmse.png
-    status: second #second-wide (extend the width of the image), "second" provides a background color to the text or empty
-    text: | 
-      ##### **Device Management & Service Enablement Working Group**
+    name: RowSeparator
+    size: M
+  -
+    name: RowText
+    text: |
+          ## RowMulticolum with RowTex
+  -
+    name: RowMultiColumns
+    cols: 2
+    widths: [6,6]
+    modules:
+      -
+        name: RowButtonGrid
+        cols:
+          -
+            title: LwM2M
+            subtitle: Protocol
+            image: fas cog
+            items:
+              -
+                title: V1.2
+                subtitle: 10-Nov-20
+                status: active
+                url: https://openmobilealliance.github.io/dmse-documentation/#v12-functionality
+                target: _blank
+      _
+        name: RowText
+         # cols: 2
+         # image: /images/working_together_2.jpg
+        text: |
+             # this is text
 ---
 ## Markdown Text
 This is just pure markdown text.
