@@ -55,6 +55,8 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // https://github.com/nuxt-community/gtm-module
+    '@nuxtjs/gtm',
   ],
 
   bootstrapVue: {
@@ -65,6 +67,13 @@ export default {
       solid: true,
       brands: true
     }
+  },
+
+  // Google Tag Manager Module
+  gtm: {
+    id: 'G-TRKRTE1JYP',
+    // Always send real GTM events (also when using `nuxt dev`)
+    // enabled: true
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
