@@ -14,7 +14,7 @@ tags:
 
 **Advanced Firmware Update Object** – [OMASpecWorks](https://omaspecworks.org/) is developing a new Firmware Object to support emerging microcontrollers in a standardized way using the [LwM2M](https://lwm2m.openmobilealliance.org/) protocol.
 
-The new emerging microcontrollers need an advance Firmware Update. The actual [LwM2M Firmware Update Object](https://www.openmobilealliance.org/release/ObjLwM2M_Firmware/V1_1-20201110-A/OMA-SUP-XML_5-V1_1-20201110-A.xml) does not support multiple instances of firmware. It was designed to support basic microcontrollers consisting of a single firmware image only. The [Software Component Object](https://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_2-20210119-A/OMA-TS-LWM2M_SwMgmt-V1_0_2-20210119-A.pdf) is neither a good fit for the advanced microcontrollers for good technical reasons. Therefore [OMASpecWorks](https://omaspecworks.org/) has started to work on an **Advance Firmware Update Object** to address this gap.
+The new emerging microcontrollers need an advance Firmware Update. The existing [LwM2M Firmware Update Object](https://www.openmobilealliance.org/release/ObjLwM2M_Firmware/V1_1-20201110-A/OMA-SUP-XML_5-V1_1-20201110-A.xml) does not support multiple instances of firmware. It was designed to support basic microcontrollers consisting of a single firmware image only. The [Software Component Object](https://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_2-20210119-A/OMA-TS-LWM2M_SwMgmt-V1_0_2-20210119-A.pdf) is neither a good fit for the advanced microcontrollers for good technical reasons. Therefore [OMASpecWorks](https://omaspecworks.org/) has started to work on an **Advance Firmware Update Object** to address this gap.
 
 <!--more-->
 
