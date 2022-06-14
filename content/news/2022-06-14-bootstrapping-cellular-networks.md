@@ -1,6 +1,6 @@
 ---
 layout: news
-image: /images/news/devices-770x285.jpg
+image: /images/news/secure-cellular-networks.jpg
 title: LwM2M, Bootstrapping in Cellular Networks
 description: Creation of LightweightM2M Vanilla devices that can be configured automatically.
 subtitle: New Work Item
