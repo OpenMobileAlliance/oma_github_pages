@@ -12,8 +12,11 @@ tags:
     - bootstrap
     - cellular networks
 ---
+OMASpecWorks announces the creation of a new Work Item, **LwM2M Device Vanilla  Bootstrapping in Cellular Networks**
 
-The Lightweight M2M protocol (LwM2M) has proven itself to be a well suited to operating within Cellular networks. LwM2M is being used with a wide range of Device Types from Low Latency critical IoT applications such as remote performance monitoring to high latency massive IoT application such as water metering. 
+The Lightweight M2M protocol (LwM2M) has proven itself to be a well suited to operating within Cellular networks. LwM2M is being used with a wide range of Device Types from Low Latency critical IoT applications such as remote performance monitoring to high latency massive IoT application such as water metering.
+
+<!--more-->
 
 Currently, there are multiple approaches for deploying cellular device management but in most cases the devices have to be somehow provisioned to a LwM2M server before use. At a minimum this is the URL location of the LwM2M server, but it often also includes security credentials that are particular to the LwM2M server that it is tied to. Provisioning this information is done within the supply chain and adds cost and complexity to the roll out of device. In its simplest form, it involves using spreadsheets between organisations but for more mature supply chains, manufacturing systems can for example be integrated with LwM2M servers to provide a more seamless and secure approach. 
 
