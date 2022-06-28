@@ -18,7 +18,7 @@ The Lightweight M2M protocol (LwM2M) has proven itself to be well suited to oper
 
 <!--more-->
 
-There are currently multiple methods for cellular device management, but in most cases, the devices somehow must be provisioned to a LwM2M server before use. At a minimum this is the URL address of the LwM2M server, but it often also includes security credentials for that particular LwM2M server. Provisioning this information is done within the supply chain and adds cost and complexity to the roll out of device. Supply chains can be simple shared spreadsheets between organisations but more mature supply chains can integrate manufacturing systems with LwM2M servers to provide a more seamless and secure approach. 
+There are currently multiple methods for cellular device management, but in most cases, the devices somehow must be provisioned to a LwM2M server before use. At a minimum this is the URL address of the LwM2M server, but it often also includes security credentials for that particular LwM2M server. Provisioning this information is done within the supply chain and adds cost and complexity to the roll out of device.
 
 This work item is focused on avoiding supply chain complexity in cellular networks by utilising their inherent trustworthiness and security. Cellular networks already provide root of trust anchoring to the cellular subscription, various levels of encryption on the radio network, and a secure domain for which access can be controlled.  The goal is to enable a manufacturer to create devices in an entirely generic way and use a cellular subscription that allow the devices to automatically attach to any operator defined server.
 
