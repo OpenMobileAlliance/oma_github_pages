@@ -6,15 +6,15 @@ description: Blog to announce the agreement to start working in a new, advanced 
 subtitle: OMA SpecWorks is developing a new, advanced LwM2M Firmware Object
 url: 
 by: OMA SpecWorks
-date: 2022-May-31
-homepage: 1
-tags:
+date: 2022-May-30
+homepage: 2
+tags: 
     - microcontrollers
 ---
 
-**Advanced Firmware Update Object** – [OMASpecWorks](https://omaspecworks.org/) is developing a new, advanced Firmware Object using the [LwM2M](https://lwm2m.openmobilealliance.org/) protocol to support emerging microcontrollers with multiple instances of firmware. 
+Advanced Firmware Update Object – [OMASpecWorks](https://omaspecworks.org/) is developing a new, advanced Firmware Object using the [LwM2M](https://lwm2m.openmobilealliance.org/) protocol to support emerging microcontrollers with multiple instances of firmware. 
 
-The [LwM2M](https://lwm2m.openmobilealliance.org/) specifications define a Firmware Update Object, which allows a LwM2M Server to determine the firmware version running on the device, to update firmware on the device and to monitor the progress of the update. This Firmware Update Object has been widely implemented and is in deployment today in various IoT devices.
+The [LwM2M](https://lwm2m.openmobilealliance.org/) specifications define a Firmware Update Object, which allows a LwM2M Server to determine the firmware version running on the device, to update firmware on the device and to monitor the progress of the update. This Firmware Update Object has been widely implemented and is in deployment today in various IoT devices. <!--more-->
 
 The firmware update process has become more complex with the advanced microcontrollers that are new to the market, since firmware can now be composed of multiple images. 
 

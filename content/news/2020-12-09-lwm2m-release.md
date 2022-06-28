@@ -7,7 +7,7 @@ description: The standardization work on the LwM2M v1.2 specification has been c
 url: 
 date: 2020-Dec-09
 by:  OMA SpecWorks
-homepage: 5
+homepage: 
 tags:
     - v1.2
     - Release
