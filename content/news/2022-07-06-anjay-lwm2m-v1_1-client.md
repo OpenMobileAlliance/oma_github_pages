@@ -10,9 +10,10 @@ date: 2022-Jul-06
 homepage: 1
 tags:
     - microcontrollers
-    - security
     - lwm2m
     - IoT
+    - OSS
+    - security
 ---
 
 The original proposal for LwM2M, a new standardized communication protocol for IoT device lifecycle management dates back to 2012. It took until 2017 to have the specification of LwM2M version 1.0 finalized. This was followed by releases of updated versions of the protocol v1.0.1 and v1.0.2, which incorporated feedback from early standard adopters and their real-life use cases. This work resulted in a couple of existing and well-maintained open source projects including our [Anjay](https://github.com/AVSystem/Anjay), Eclipse’s [Wakamaa](https://github.com/eclipse/wakaama) & [Leshan](https://github.com/eclipse/leshan) and [IOWA](https://github.com/IOTEROP/IOWA).
