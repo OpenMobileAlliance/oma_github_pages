@@ -6,7 +6,7 @@
           <h1 class="m-auto">Tags</h1>
         </b-row>
         <b-row>
-          <b-list-group horizontal class="m-auto">
+          <b-list-group horizontal class="overflow-auto m-auto">
             <b-list-group-item
               v-for="tag in tags"
               :key="tag"
