@@ -74,49 +74,49 @@ modules:
                 title: Binary Application Data
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-binary-application-data
+                url: https://guidelines.openmobilealliance.org/enablers#lwm2m-binary-application-data-container
                 target: _blank
               - 
                 title: Connectivity Management
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-connectivity-management
+                url: https://guidelines.openmobilealliance.org/enablers/#lwm2m-connectivity-management
                 target: _blank
               - 
                 title: Device Capabilities Management
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-device-capabilities-management
+                url: https://guidelines.openmobilealliance.org/enablers#lwm2m-device-capabilities-management
                 target: _blank
               - 
                 title: Event Log
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-event-log
+                url: https://guidelines.openmobilealliance.org/enablers#lwm2m-event-log
                 target: _blank
               - 
                 title: Lock & Wipe
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-lock--wipe
+                url: https://guidelines.openmobilealliance.org/enablers#lwm2m-lock--wipe
                 target: _blank
               - 
                 title: Portfolio Object
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-portfolio-object
+                url: https://guidelines.openmobilealliance.org/enablers#lwm2m-portfolio-object
                 target: _blank
               - 
                 title: Software Management
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-software-management
+                url: https://guidelines.openmobilealliance.org/enablers/#lwm2m-software-management
                 target: _blank
               - 
                 title: LwM2M Virtual Observation
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: https://openmobilealliance.github.io/dmse-documentation/#lwm2m-virtual-observation
+                url: https://guidelines.openmobilealliance.org/enablers/#lwm2m-virtual-observation
                 target: _blank
           -
             title: Resources
