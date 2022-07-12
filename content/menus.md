@@ -48,4 +48,16 @@
       url: https://github.com/OpenMobileAlliance
       target: _blank
       class: ml-auto
+    - 
+      description: link to Twitter
+      icon: "fab twitter"
+      url: https://twitter.com/OMASpecWorks
+      target: _blank
+      class: ml-auto
+    - 
+      description: link to LinkedIn
+      icon: "fab linkedin"
+      url: https://www.linkedin.com/company/52819/
+      target: _blank
+      class: ml-auto
 ---
