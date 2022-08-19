@@ -151,7 +151,7 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: http://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M-V1_0_2-20180815-A.zip
           -
-            title: Implementations
+            title: Implementation(*)
             subtitle: Code
             image: fas handshake
             items:
@@ -196,6 +196,10 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://guidelines.openmobilealliance.org/testfests
                 target: _blank
+  -
+    name: RowText
+    text: (*) _Note, The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._
+
   -
     name: RowSeparator
     size: XL #provide XS, S, M, L, XL spacing between component
