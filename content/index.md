@@ -191,6 +191,12 @@ modules:
             image: fas users
             items:
               - 
+                title: Member Meetings
+                subtitle: Events
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://omaspecworks.org/events/member-meetings/
+                target: _blank
+              - 
                 title: Previous TestFests
                 subtitle: Events
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
