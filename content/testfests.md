@@ -116,6 +116,5 @@ Lastly, OMA SpecWorks hosts a <a href="https://guidelines.openmobilealliance.org
 
 One of the important aspects of any interoperability testing session is to record and process the issues found during the TestFest Event. This will allow the corresponding Working Groups to determine how the issue should be resolved, TestFest participants may have the opportunity to raise their queries directly with the corresponding Technical Working Group.
 
-For LWM2M Test events, participants are asked to submit any issues they encounter with the specification on the OMA GitHub <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues" target="_blank">Issues - LwM2M for Developers</a>. This repository  is monitored by the <a href="https://lwm2m.openmobilealliance.org/about/" target="_blank">Device Management Working Group</a> and the <a href="https://lwm2m.openmobilealliance.org/about/" target="_blank">IPSO Working Group</a>.
-
+> For LWM2M Test events, participants are asked to submit any issues they encounter with the specification on the OMA GitHub <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues" target="_blank"><strong>Issues - LwM2M for Developers</strong></a>. This repository  is monitored by the <a href="https://lwm2m.openmobilealliance.org/about/" target="_blank">Device Management Working Group</a> and the <a href="https://lwm2m.openmobilealliance.org/about/" target="_blank">IPSO Working Group</a>.
 
