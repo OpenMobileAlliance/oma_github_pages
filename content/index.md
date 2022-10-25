@@ -179,6 +179,18 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://github.com/IOTEROP/IOWA
                 target: _blank
+              -
+                title: Zephyr
+                subtitle: (LwM2M Client)
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://docs.zephyrproject.org/latest/samples/net/lwm2m_client/README.html
+                target: _blank
+              -
+                title: Leshan Sandbox
+                subtitle: (Server Sandbox)
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url:  https://github.com/eclipse/leshan#test-server-sandbox
+                target: _blank
               - 
                 title: Tools
                 subtitle: LwM2M
@@ -204,7 +216,7 @@ modules:
                 target: _blank
   -
     name: RowText
-    text: (*) _Note, The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._
+    text: (*) _Note: The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._
 
   -
     name: RowSeparator
