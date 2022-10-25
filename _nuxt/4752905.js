@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{377:function(n,t,o){"use strict";o.r(t);var e={props:{icon:{type:String,required:!0}}},c=o(52),component=Object(c.a)(e,(function(){return(0,this._self._c)("font-awesome-icon",{attrs:{icon:this.icon.split(" ")}})}),[],!1,null,null,null);t.default=component.exports}}]);
