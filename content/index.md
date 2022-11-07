@@ -216,8 +216,8 @@ modules:
                 target: _blank
   -
     name: RowText
-    text: (*) _Note: The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._
-
+    text: (*) _Note - The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._
+ 
   -
     name: RowSeparator
     size: XL #provide XS, S, M, L, XL spacing between component
