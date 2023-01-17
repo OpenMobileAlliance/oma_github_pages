@@ -7,7 +7,7 @@ subtitle: OMA SpecWorks is developing a new, advanced LwM2M Firmware Object
 url: 
 by: OMA SpecWorks
 date: 2022-May-30
-homepage: 2
+homepage: 3
 tags: 
     - microcontrollers
 ---
