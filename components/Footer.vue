@@ -4,7 +4,7 @@
       <b-row no-gutters>
         <b-col>
           <p class="font-weight-light mt-2">
-            <small>(&copy;) 2022 Open Mobile Alliance</small>
+            <small>(&copy;) 2022-2023 Open Mobile Alliance</small>
           </p>
         </b-col>
         <b-col>
