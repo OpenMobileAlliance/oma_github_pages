@@ -95,6 +95,12 @@ modules:
                 url: https://guidelines.openmobilealliance.org/enablers#lwm2m-event-log
                 target: _blank
               - 
+                title: Gateway
+                subtitle:
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: https://guidelines.openmobilealliance.org/enablers/#lwm2m-gateway
+                target: _blank
+              -  
                 title: Lock & Wipe
                 subtitle:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
