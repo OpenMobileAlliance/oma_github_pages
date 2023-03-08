@@ -24,34 +24,34 @@ modules:
             image: fas cog
             items:
               -
-                title: Version 1.2 - CORE
+                title: Version 1.2.1 - CORE
                 subtitle: PDF Format
                 status: active
-                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf
+                url: https://openmobilealliance.org/release/LightweightM2M/V1_2_1-20221209-A/OMA-TS-LightweightM2M_Core-V1_2_1-20221209-A.pdf
                 target: _blank
               -
-                title: Version 1.2 - Transport
+                title: Version 1.2.1 - Transport
                 subtitle: PDF Format
                 status: active
-                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf
+                url: https://openmobilealliance.org/release/LightweightM2M/V1_2_1-20221209-A/OMA-TS-LightweightM2M_Transport-V1_2_1-20221209-A.pdf
                 target: _blank
               -
-                title: Version 1.2 - CORE
+                title: Version 1.2.1 - CORE
                 subtitle: HTML Format
                 status: active
-                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/HTML-Version/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.html
+                url: https://openmobilealliance.org/release/LightweightM2M/V1_2_1-20221209-A/HTML-Version/OMA-TS-LightweightM2M_Core-V1_2_1-20221209-A.html
                 target: _blank
               -
-                title: Version 1.2 - Transport
+                title: Version 1.2.1 - Transport
                 subtitle: HTML Format
                 status: active
-                url: http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/HTML-Version/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.html
+                url: https://openmobilealliance.org/release/LightweightM2M/V1_2_1-20221209-A/HTML-Version/OMA-TS-LightweightM2M_Transport-V1_2_1-20221209-A.html
                 target: _blank
               -
-                title: Version 1.2
+                title: Version 1.2.1
                 subtitle: Zip File
                 status: active
-                url: https://openmobilealliance.github.io/dmse-documentation/#v12-functionality
+                url: https://openmobilealliance.org/release/LightweightM2M/V1_2_1-20221209-A/OMA-ERP-LightweightM2M-V1_2_1-20221209-A.zip
                 target: _blank
               -
                 title: V1.1.1
