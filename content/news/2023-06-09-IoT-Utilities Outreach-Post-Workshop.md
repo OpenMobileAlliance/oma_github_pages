@@ -18,7 +18,7 @@ This workshop addresses the needs of the utilities sector as they deploy new fun
 
 As the developer of the LwM2M protocol, OMA aims to help the industry deploy better and more reliably interoperable implementations of the LwM2M specification. 
 
-To apply for the **presentation materials**, please request by filling out the [form](http://21247113.hs-sites.com/iot-for-utilities-workshop-1).
+To apply for the presentation materials, please request by filling out the **[Utility Web Form](http://21247113.hs-sites.com/iot-for-utilities-workshop-1).**
 
 <!--more-->
 
@@ -33,3 +33,7 @@ This workshop represents the Utility sector's new functionalities by adopting th
 - LwM2M Use Cases: Showcase real-world use cases where LwM2M has been successfully implemented by and for utilities, highlighting the benefits achieved through the protocol's adoption.
 - LwM2M Interoperability: Provide a status update on the current state of LwM2M interoperability and call for actions to promote its widespread adoption.
 - Open Discussion and Q&A: Facilitate an open discussion among attendees to share insights, ask questions, and engage in discussions related to the previous topics.
+
+ </br>
+      <button><a  href="https://www.dofactory.com/html/buttons">Open Utility Form</a></button>
+ </br>
