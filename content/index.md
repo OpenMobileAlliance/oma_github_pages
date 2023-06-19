@@ -220,6 +220,12 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://guidelines.openmobilealliance.org/testfests
                 target: _blank
+              - 
+                title: Post-Workshop Utilities
+                subtitle: Events
+                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
+                url: http://21247113.hs-sites.com/iot-for-utilities-workshop-1
+                target: _blank
   -
     name: RowText
     text: (*) _Note - The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._
