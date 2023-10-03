@@ -2,7 +2,7 @@
 layout: news
 image: /images/news/utility2.jpeg
 title: Unlocking Utility Benefits with LwM2M
-subtitle: Pre-Workshop
+subtitle: Workshop, Nov 15, 08:30 am PST.
 description: Workshop promotion.
 url: 
 date: 2023-Oct-03
