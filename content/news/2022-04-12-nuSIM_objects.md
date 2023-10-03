@@ -7,7 +7,7 @@ description: nuSIM is an optimized iSIM solution for IoT
 url: 
 date: 2022-Apr-12
 by:  OMASpecWorks
-homepage: 4
+homepage: 400
 tags:
 ---
 

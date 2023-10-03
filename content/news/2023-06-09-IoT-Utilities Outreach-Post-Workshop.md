@@ -7,7 +7,7 @@ description: Implementing LightWeight M2M protocol for Utilities
 url: http://21247113.hs-sites.com/iot-for-utilities-workshop-1
 date: 2023-Jun-09
 by: OMA SpecWorks
-homepage: 1
+homepage: 100
 tags: 
     - collaboration
 ---
