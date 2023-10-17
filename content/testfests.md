@@ -4,6 +4,24 @@ description: information about applying to attend and participating in an OMA Te
 modules:
   -
     name: RowText
+    status: second
+    text: |
+      ## OPEN REGISTRATION
+      </br>
+
+      ## Next OMA LwM2M Specification Valiation Event (aka TestFest)
+      </br>
+      
+      Information            | Details
+      ----------------|--------------
+      **Date:** | November 2023
+      **Location:**  |Virtual
+      **Registration**: | OPEN
+      </br>
+      <button><a href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">REGISTER NOW</a></button>
+      </br>
+  -
+    name: RowText
     text: | 
       
       ## TestFests
@@ -33,24 +51,7 @@ modules:
     name: RowSeparator
     size: S #provide XS, S, M, L, XL spacing between component
   -
-    name: RowText
-    status: second
-    text: |
-      
-      </br>
 
-      ## Next OMA LwM2M TestFest
-      </br>
-      
-      Information            | Details
-      ----------------|--------------
-      **Date:** | TBD
-      **Location:**  |TBD
-      **Registration**: | TBD
-      </br>
-      <button>REGISTRATION (TBD)</button>
-      </br>
-  -
     name: RowSeparator
     size: L #provide XS, S, M, L, XL spacing between component
 ---
