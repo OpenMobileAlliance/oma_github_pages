@@ -23,15 +23,15 @@ The Open Mobile Alliance (OMA) is excited to announce a groundbreaking event: *V
 
 * **Event Name**: Virtual-SVE-40 (Specification Validation Event)
 * **Week Starting**: 13 November 2023
-* **Focus**: LwM2M Client & Server implementations compliant with LwM2M Protocol: v1.0, v1.1, and the latest v1.2
+* **Focus**: LwM2M Client & Server implementations compliant with <a href="https://www.openmobilealliance.org/release/LightweightM2M/" target="_blank">LwM2M Protocol: v1.0, v1.1, and the latest v1.2</a>
 * **Free Event**: $0 cost per implementation or Engineer
-* **Non-Disclosure Agreement (NDA)**: Companies must sign an NDA to participate.
+* **Non-Disclosure Agreement (NDA)**: Companies must sign an <a href="https://www.openmobilealliance.org/events/Admin/OMA-TestFest-NDA-2023.pdf" target="_blank">NDA</a> to participate.
 * **Location**: Remote event.
 
 
 **New LwM2M v1.2 Test Cases**
 
-The Enabler Test Specification for Virtual-SVE-40 is now available, offering a comprehensive set of new V1.2 test cases covering the latest LwM2M protocol functionalities. Expect to explore a range of new test cases, including:
+The Enabler Test Specification for Virtual-SVE-40 is now available, offering a comprehensive set of new <a href="https://www.openmobilealliance.org/release/LightweightM2M/ETS/OMA-ETS-LightweightM2M_INT-V1_2-20231003-A.pdf" target="_blank">LwM2M V1.2 test cases</a> covering the latest LwM2M protocol functionalities. Expect to explore a range of new test cases, including:
 * Client Initiated Bootstrap (OSCORE Security), 
 * Registration Interface, 
 * Device Management, 
@@ -41,7 +41,7 @@ The Enabler Test Specification for Virtual-SVE-40 is now available, offering a c
 
 **What are OMA Specification Validation (SVE) (aka TestFest)**
 OMA Specification Validation Events (SVE) serve multiple vital purposes. They ensure the quality of OMA specifications, allow vendors to verify and test the interoperability of their product implementations in a multi-vendor environment, and provide a peer-to-peer networking environment for participants. These events are held in a confidential and secure testing environment, welcoming both OMA members and non-member companies.
-To participate in Virtual-SVE-40 or access the detailed Enabler Test Specification, please visit the 
+To participate in Virtual-SVE-40 or access the detailed Enabler Test Specification, please register below.
 
 
  </br>
