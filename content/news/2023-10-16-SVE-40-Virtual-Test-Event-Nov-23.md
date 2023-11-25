@@ -5,7 +5,7 @@ title: Virtual Test Event - OPEN
 subtitle: Specification Validation Event (SVE#40), Nov 2023.
 description: Virtual Test Event.
 url: 
-date: 2023-Oct-16
+date: 2023-Nov-20
 by: OMA SpecWorks
 homepage: 20
 tags: 
@@ -14,7 +14,7 @@ tags:
 
 The Open Mobile Alliance (OMA) is excited to announce a groundbreaking event: *Virtual-SVE-40* (Specification Validation Event). Hosted by OMA, this event is set to take place in **November 2023**. *Virtual-SVE-40*, also known as the Virtual TestFest, is an exceptional opportunity for all LwM2M implementers, and it's coming your way! Get ready for a week filled with exploration, testing, and innovation.
  </br>
-      <button><a  href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">Register Now!</a></button>
+      <button><a  href="" target="_blank">CLOSED</a></button>
  </br>
 
 <!--more-->
@@ -45,5 +45,5 @@ To participate in Virtual-SVE-40 or access the detailed Enabler Test Specificati
 
 
  </br>
-      <button><a  href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">Register Now!</a></button>
+      <button><a  href="" target="_blank">CLOSED</a></button>
  </br>

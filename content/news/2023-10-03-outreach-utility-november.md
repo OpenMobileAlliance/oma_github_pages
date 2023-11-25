@@ -14,7 +14,8 @@ tags: s
 
 Are you ready to take your utility management to the next level? Open Mobile Alliance (OMA) presents the OMASpeWorks Utility Benefits with LwM2M Workshop, a groundbreaking initiative aimed at promoting the adoption and understanding of the OMA LightweightM2M (LwM2M) protocol within the utility industry. In this blog, we'll delve into why this workshop is a game-changer for the utility sector.
 
-To register for this event, please fill out the **[Utility Web Form](https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m).**
+
+To register for this event, please fill out the **[CLOSED]().**
 
 <!--more-->
 
@@ -40,5 +41,5 @@ In conclusion, the OMASpeWorks Workshop is a game-changer for the utility indust
 
 
  </br>
-      <button><a  href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m">Open Utility Workshop Form</a></button>
+      <button><a  href="">CLOSED</a></button>
  </br>
