@@ -36,7 +36,7 @@ modules:
     size: S #provide XS, S, M, L, XL spacing between component
   -
     name: RowImage
-    image: "/images/events.jpg"
+    image: "/images/events.jpeg"
     title: separator
     status: text-center
   -
