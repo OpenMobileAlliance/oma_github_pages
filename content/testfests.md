@@ -14,11 +14,11 @@ modules:
       
       Information            | Details
       ----------------|--------------
-      **Date:** | November 2023
-      **Location:**  |Virtual
-      **Registration**: | OPEN
+      **Date:** | TBD
+      **Location:**  |TBD
+      **Registration**: | TBD
       </br>
-      <button><a href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">REGISTER NOW</a></button>
+      <button><a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">See Previous Events</a></button>
       </br>
   -
     name: RowText
