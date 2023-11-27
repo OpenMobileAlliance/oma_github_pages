@@ -5,7 +5,7 @@ title: Virtual Test Event
 subtitle: Specification Validation Event (SVE#40), Nov 2023.
 description: Virtual Test Event.
 url: 
-date: 2023-Oct-16
+date: 2023-Nov-20
 by: OMA SpecWorks
 homepage: 20
 tags: 
