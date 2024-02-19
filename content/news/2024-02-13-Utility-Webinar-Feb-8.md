@@ -1,12 +1,12 @@
 ---
 layout: news
-image: /images/news/smart_city_ut_web.jpg
-title: The Transformative Power of LwM2M
+image: /images/news/water_meters.png
+title: Revolutionizing the Utilities Sector - The Transformative Power of LwM2M
 subtitle: Workshop, Feb 8, 11 pm PST
 description: Online Workshop
 url: 
 date: 2024-Feb-16
-by: OMA SpecWorks
+by: Olivier Cormona
 homepage: 20
 tags: 
     - workshop
@@ -31,6 +31,12 @@ The workshop highlighted the growing adoption of LwM2M in utility RFPs and the i
 **Conclusion: A Sustainable Future with LwM2M**
 This workshop has underscored LwM2M's potential to drive the utility sector toward more sustainable and efficient management practices. We encourage stakeholders to join the OMA SpecWorks community to contribute to and benefit from the evolving LwM2M specifications. Engage with OMA SpecWorks representatives at key industry events such as E-World Energy & Water in Essen, Distributech in Orlando, or the Global Smart Water Metering conference in London.
 
+Enhance your understanding of LwM2M for utilities by visiting the <a href="https://omaspecworks.org/" target="_blank">OMA SpecWorks website.</a> You'll find comprehensive information here, including initiative overviews, positioning, smart meters FAQs, and dedicated workshop sections with hands-on insights. Access materials from our initial introductory workshop and subsequent update workshops. For inquiries or additional information, contact us at <a href="helpdesk@omaorg.org>helpdesk@omaorg.org.</a>
+
+Access the webinar recording and presentation <a href="https://21247113.hs-sites.com/revolutionizing-utilities-with-lwm2m-ecosystem-workshop-accesss-recording" target="_blank">here</a>.
+
+**About the Author**
+Olivier Carmona, Chair of Utilities Reach Out at OMA SpecWorks, brings a wealth of expertise in IoT solutions. Focused on advancing the utility sector through technology, Olivier's insights into the LwM2M ecosystem offer a forward-looking perspective on the future of digital transformation in utilities.
 
 See previous OMA Utility Workshops <a href="https://guidelines.openmobilealliance.org/workshop" target="_blank">here</a>
 
