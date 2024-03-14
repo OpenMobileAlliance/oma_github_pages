@@ -230,7 +230,7 @@ modules:
                 title: Test Event SVE-41 
                 subtitle: Events
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: http://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2-0-0
+                url: http://21247113.hs-sites.com/lwm2m-test-event-sve-41
                 target: _blank            
   -
     name: RowText
