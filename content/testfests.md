@@ -9,14 +9,14 @@ modules:
       ## OPEN REGISTRATION
       </br>
 
-      ## Next OMA LwM2M Specification Valiation Event (aka TestFest)
+      ## OMA LwM2M Specification Validation Event (SVE) #41
       </br>
       
       Information            | Details
       ----------------|--------------
-      **Date:** | TBD
-      **Location:**  |TBD
-      **Registration**: | TBD
+      **Date:** | 10-13 June, 2024
+      **Location:**  |Raleigh, North Carolina, USA
+      **Registration**: | <a href="http://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2-0-0" arget="_blank">Register here!</a>
       </br>
       <button><a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">See Previous Events</a></button>
       </br>
