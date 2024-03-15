@@ -16,9 +16,8 @@ modules:
       ----------------|--------------
       **Date:** | 10-13 June, 2024
       **Location:**  |Raleigh, North Carolina, USA
-      **Registration**: | <a href="http://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2-0-0" arget="_blank">Register here!</a>
       </br>
-      <button><a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">See Previous Events</a></button>
+      <button><a href="http://21247113.hs-sites.com/lwm2m-test-event-sve-41" target="_blank">Register Here</a></button>
       </br>
   -
     name: RowText
