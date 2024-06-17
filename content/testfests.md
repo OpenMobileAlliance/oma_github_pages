@@ -17,7 +17,7 @@ modules:
       **Date:** | 10-13 June, 2024
       **Location:**  |Raleigh, North Carolina, USA
       </br>
-      <button><a href="http://21247113.hs-sites.com/lwm2m-test-event-sve-41" target="_blank">Register Here</a></button>
+      <button><a href="http://21247113.hs-sites.com/lwm2m-test-event-sve-41" target="_blank">Closed</a></button>
       </br>
   -
     name: RowText
