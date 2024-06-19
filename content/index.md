@@ -230,12 +230,7 @@ modules:
                 status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
                 url: https://guidelines.openmobilealliance.org/workshop
                 target: _blank    
-              - 
-                title: Test Event SVE-41 
-                subtitle: Events
-                status: active  # options "active" = on; "deactive" = off; "pending" = in transition; "highlight" = extra visible
-                url: http://21247113.hs-sites.com/lwm2m-test-event-sve-41
-                target: _blank            
+                          
   -
     name: RowText
     text: (*) _Note - The Open Mobile Alliance is not responsible for the content of any particular implementation and does not endorse any particular implementation._

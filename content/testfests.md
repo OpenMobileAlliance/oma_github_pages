@@ -8,16 +8,16 @@ modules:
     text: |
       ## OPEN REGISTRATION
       </br>
-
-      ## OMA LwM2M Specification Validation Event (SVE) #41
+      ## Next OMA LwM2M Specification Valiation Event (aka TestFest)
       </br>
       
       Information            | Details
       ----------------|--------------
-      **Date:** | 10-13 June, 2024
-      **Location:**  |Raleigh, North Carolina, USA
+      **Date:** | TBD
+      **Location:**  |TBD
+      **Registration**: | TBD
       </br>
-      <button><a href="http://21247113.hs-sites.com/lwm2m-test-event-sve-41" target="_blank">Closed</a></button>
+      <button><a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">See Previous Events</a></button>
       </br>
   -
     name: RowText
