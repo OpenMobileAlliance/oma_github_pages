@@ -14,7 +14,8 @@ tags:
 ---
 ### Bringing Real-Time to the Masses
 
-The future of innovative industrial and manufacturing sectors is driven around industry 4.0, real-time production and industrial insights, machine learning, robotics, and agile practices. The industrial and manufacturing sectors are undergoing a revolutionary transformation, driven by cutting-edge innovations that are reshaping traditional processes and boosting efficiency, productivity, and sustainability. 
+The future of innovative industrial and manufacturing sectors is driven around industry 4.0, real-time production and industrial insights, machine learning, robotics, and agile practices. The industrial and manufacturing sectors are undergoing a revolutionary transformation, driven by cutting-edge innovations that are reshaping traditional processes and boosting efficiency, productivity, and sustainability.  
+
 <!--more-->
 Understanding the industrial ecosystem can be impactful for engineering, integration, installation, and servicing customers in industries such as manufacturing, energy production, waste management, utilities, and others. Below is a depiction of the manufacturing ecosystem:
 
