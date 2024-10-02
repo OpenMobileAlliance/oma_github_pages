@@ -6,18 +6,20 @@ modules:
     name: RowText
     status: second
     text: |
+      
       ## OPEN REGISTRATION
       </br>
-      ## Next OMA LwM2M Specification Valiation Event (aka TestFest)
+
+      ### Next OMA LwM2M Specification Valiation Event (SVE-42)
       </br>
       
       Information            | Details
       ----------------|--------------
       **Date:** | 28 - 31 October
-      **Location:**  | <a href="https://cumulocity.com/" target="_blank">Cumolocity offices</a>, Toulouser Allee 25, 40211 Düsseldorf, GERMANY.
-      **Registration**: | <a href="https://community.openmobilealliance.org/lwm2m-test-event-sve-42-0-0" target="_blank"> Test EventSVE-42</a>
+      **Location:**  |<ins>Toulouser Allee 25, 40211 Düsseldorf</ins>, GERMANY at the<a href="https://cumulocity.com/" target="_blank">  Cumolocity</a> offices.
+      **Registration**: | <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrRLQP8nMB38fb2FCBGCmY289ka_C-SZWQ4UtxwdQwt_Dx5w/viewform?usp=sf_link" target="_blank"> Register NOW for Test Event SVE-42</a>
       </br>
-      <button><a href="[https://guidelines.openmobilealliance.org/testfests](https://community.openmobilealliance.org/lwm2m-test-event-sve-42-0-0)" target="_blank">LwM2M Test Event SVE-42</a></button>
+      <button><a href="https://community.openmobilealliance.org/lwm2m-test-event-sve-42-0-0" target="_blank">LwM2M Test Event SVE-42</a></button>
       </br>
   -
     name: RowText
