@@ -13,11 +13,11 @@ modules:
       
       Information            | Details
       ----------------|--------------
-      **Date:** | TBD
-      **Location:**  |TBD
-      **Registration**: | TBD
+      **Date:** | 28 - 31 October
+      **Location:**  | <a href="https://cumulocity.com/" target="_blank">Cumolocity offices</a>, Toulouser Allee 25, 40211 Düsseldorf, GERMANY.
+      **Registration**: | <a href="https://community.openmobilealliance.org/lwm2m-test-event-sve-42-0-0" target="_blank"> Test EventSVE-42</a>
       </br>
-      <button><a href="https://guidelines.openmobilealliance.org/testfests" target="_blank">See Previous Events</a></button>
+      <button><a href="[https://guidelines.openmobilealliance.org/testfests](https://community.openmobilealliance.org/lwm2m-test-event-sve-42-0-0)" target="_blank">LwM2M Test Event SVE-42</a></button>
       </br>
   -
     name: RowText
