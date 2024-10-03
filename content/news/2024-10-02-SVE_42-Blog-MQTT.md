@@ -5,7 +5,7 @@ title:  "MQTT vs LwM2M: The Battle of IoT Protocols for Lightweight Connectivity
 subtitle: 
 description: 
 url: 
-date: 2024-Oct-02
+date: 2024-Oct-01
 by: OMA
 homepage: 11
 tags: 
