@@ -21,7 +21,7 @@ export default {
     .only([
       'image', 'title', 'subtitle', 'url', 'by', 'date', 'tags', 'slug', 'excerpt'
     ])
-    .sortBy('createdAt','desc')
+    .sortBy('date','desc')
     .fetch()
 
     const tags = new Set()
