@@ -7,7 +7,7 @@ modules:
     status: second
     text: |
       
-      ## OPEN REGISTRATION
+      ## REGISTRATION CLOSED
       </br>
 
       ### Next OMA LwM2M Specification Valiation Event (SVE-42)
@@ -15,11 +15,11 @@ modules:
       
       Information            | Details
       ----------------|--------------
-      **Date:** | 28 - 31 October
-      **Location:**  |<ins>Toulouser Allee 25, 40211 Düsseldorf</ins>, GERMANY at the<a href="https://cumulocity.com/" target="_blank">  Cumolocity</a> offices.
-      **Registration**: | <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrRLQP8nMB38fb2FCBGCmY289ka_C-SZWQ4UtxwdQwt_Dx5w/viewform?usp=sf_link" target="_blank"> Register NOW for Test Event SVE-42</a>
+      **Date:** | TBD
+      **Location:**  |<ins>TBD</ins>
+      **Registration**: | <a href="" target="_blank"> CLOSED </a>
       </br>
-      <button><a href="https://community.openmobilealliance.org/lwm2m-test-event-sve-42-0-0" target="_blank">LwM2M Test Event SVE-42</a></button>
+      <button><a href="" target="_blank">LwM2M Test Event SVE-42 POSTPONED</a></button>
       </br>
   -
     name: RowText
